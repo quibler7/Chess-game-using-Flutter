@@ -1,16 +1,16 @@
-# chessgame
 
-A new Flutter project.
+# Chess game using Flutter
+Created an Multiplayer Chess game with Minimal UI which can be played offine.
 
-## Getting Started
+## Setup
 
-This project is a starting point for a Flutter application.
+Run the following commands from your terminal:
 
-A few resources to get you started if this is your first Flutter project:
+1) `git clone https://github.com/quibler7/Chess-game-using-Flutter` to clone this repository 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2) `flutter pub get` in the project root directory to install all the required dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 
+
+<img src = "lib/chess1.png" height = 500 width =250 >
+<img src = "lib/chess2.png" height = 500 width =250 >
