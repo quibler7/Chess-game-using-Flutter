@@ -1,6 +1,6 @@
 
 # Chess game using Flutter
-Created an Multiplayer Chess game with Minimal UI which can be played offine.
+Created a Multiplayer Chess game with Minimal UI which can be played offine.
 
 ## Setup
 
